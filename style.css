@@ -4,3 +4,13 @@ body{
 h1{font-size: 50px;}
 .ik{color: orange;}
  section{ display: flex;}
+ .h-w{width: 50%;
+     padding-left: 5%;
+}
+.h-w img{ width: 500px;
+          height: 300px;
+          padding-top: 100px;
+}
+.button {
+    text-decoration: none;
+}
