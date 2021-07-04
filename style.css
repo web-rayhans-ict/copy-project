@@ -4,12 +4,14 @@ body{
 h1{font-size: 50px;}
 
 .ik{color: orange;}
- section{ display: flex;}
+ section{ display: flex;
+        margin-bottom: 50px;
+        }
 
 .h-w{width: 50%;
      padding-left: 5%;
     }
-.h-w img{ width: 500px;
+.h-w img{ width: 400px;
           height: 300px;
           padding-top: 100px;
         }
@@ -24,4 +26,9 @@ h1{font-size: 50px;}
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
   }
+.second-section{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
 
