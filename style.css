@@ -1,19 +1,21 @@
 body{
     font-family: 'Poppins', sans-serif;
-}
-h1{font-size: 50px;}
+    }
 
-.ik{color: orange;}
- section{ display: flex;
-        margin-bottom: 50px;
-        }
+h1  {font-size: 50px;}
 
-.h-w{width: 50%;
-     padding-left: 5%;
+.ik {color: orange;}
+ 
+section{ display: flex;
+         margin-bottom: 50px;
+       }
+
+.h-w{ width: 50%;
+      padding-left: 5%;
     }
 .h-w img{ width: 400px;
           height: 300px;
-          padding-top: 100px;
+          padding-top: 50px;
         }
 .button {
     text-decoration: none;
