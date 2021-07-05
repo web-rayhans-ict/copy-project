@@ -31,7 +31,7 @@ h2{font-size: 40px;}
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
   }
-  .orange-h{color: orange;}
+.orange-h{color: orange;}
 .second-section{
     background-image: url(dream-bg.png);
     background-repeat: no-repeat;
@@ -59,3 +59,4 @@ h2{font-size: 40px;}
     border-image: linear-gradient(blue, cyan);
     border-image-slice: 1;
 }
+footer p {text-align: center;}
