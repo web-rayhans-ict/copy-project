@@ -3,6 +3,7 @@ body{
     }
 
 h1  {font-size: 50px;}
+h2{font-size: 40px;}
 
 .ik {color: orange;}
  
@@ -18,19 +19,43 @@ h1  {font-size: 50px;}
           padding-top: 50px;
         }
 .button {
+    
     text-decoration: none;
-    background-color:orange;
-    padding: 10px 30px;
+    background: linear-gradient(lightsalmon, tomato);
+    padding: 10px 40px;
     border-radius: 5px;
-    background-image: linear-gradient(red, yellow);
+    color: white;
+    font-weight: 700;
         }
 .j{
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
   }
+  .orange-h{color: orange;}
 .second-section{
     background-image: url(dream-bg.png);
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: right;}
+.Experiences-section{
+  background-image:url(exp-bg.png);
+  background-repeat: no-repeat;
+  background-position:left;
+  }
+.b-s{
+  width: 40%;
+  margin-right: 5%;
+  margin-left: 5%;
+  padding-left: 20px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 40px gray;
 }
-
+#pro-level{
+  border-left: 7px solid;
+    border-image: linear-gradient(lightsalmon, tomato);
+    border-image-slice: 1;
+}
+#baby{
+  border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
